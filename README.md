@@ -1,4 +1,4 @@
 # gitStudy
 
-Creating a new branch is quick and simple and add.
+Creating a new branch is quick and manage.
 
